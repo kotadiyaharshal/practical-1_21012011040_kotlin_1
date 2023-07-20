@@ -9,7 +9,7 @@ fun main(){
          return 1;
      }
      else{
-         return num * fact(num-1)
+         return num * fact(num -1)
      }
 
  }
